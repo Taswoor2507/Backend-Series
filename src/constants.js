@@ -1,1 +1,2 @@
-export const DB_NAME = "backend";
+const DB_NAME = "backend";
+export default DB_NAME;
